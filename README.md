@@ -1,3 +1,4 @@
-# Pokedex-vue
+# Curso Vue Js
 
-## Projeto em Vue JS usando PokéAPI
+## 1 - Pokedex-vue
+Projeto em Vue JS usando PokéAPI
